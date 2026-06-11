@@ -1,0 +1,26 @@
+# Build output
+bin/
+obj/
+out/
+
+# .NET user files
+*.user
+*.suo
+.vs/
+
+# Rider and JetBrains
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# Claude Code
+.claude/
+
+# macOS
+.DS_Store
+
+# NuGet
+*.nupkg
+packages/
